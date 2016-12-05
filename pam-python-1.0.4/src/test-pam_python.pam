@@ -1,0 +1,4 @@
+auth	required	/home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/pam_python.so /home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/test.py
+account	required	/home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/pam_python.so /home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/test.py arg1 arg2
+password required	/home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/pam_python.so /home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/test.py
+session	required	/home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/pam_python.so /home/wzyboy/Wandoujia/git/pam_loki/pam-python-1.0.4/src/test.py
